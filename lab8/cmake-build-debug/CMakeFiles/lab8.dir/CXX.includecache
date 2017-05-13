@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Lovecraft/Downloads/lab8/Unit.cc
+Unit.h
+/Users/Lovecraft/Downloads/lab8/Unit.h
+iostream
+-
+sstream
+-
+cassert
+-
+
+/Users/Lovecraft/Downloads/lab8/Unit.h
+string
+-
+vector
+-
+
+/Users/Lovecraft/Downloads/lab8/avl.cc
+iostream
+-
+sstream
+-
+iomanip
+-
+cstdlib
+-
+cassert
+-
+vector
+-
+string
+-
+Unit.h
+/Users/Lovecraft/Downloads/lab8/Unit.h
+

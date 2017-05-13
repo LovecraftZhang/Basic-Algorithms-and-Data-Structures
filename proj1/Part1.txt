@@ -1,0 +1,33 @@
+Queue created.  Empty? true
+How many elements to add to the queue? 4
+Contents of queue q1 (via  print):
+100  200  300  400  
+
+Remove front -- Queue contents: 200  300  400  
+Contents of queue q2 after initialize (via  print):
+410  7  3  
+
+q2 move to front:
+3  410  7  
+
+q2 move the back after front:
+3  7  410  
+
+q1.merge_two_queues(q2):
+3  7  200  300  400  410  
+
+size of q1:6
+size of q2:0
+Generate an empty list q3
+q1.merge_two_queues(q3):
+3  7  200  300  400  410  
+
+q3.merge_two_queues(q1):
+3  7  200  300  400  410  
+size of q1:0
+Queue q2 empty? true
+Front value in q2: 0
+enqueue 3 to q2
+Remove front -- Queue contents: 
+Trying to remove front of q2 
+*** Queue is empty -- can't remove a value ***

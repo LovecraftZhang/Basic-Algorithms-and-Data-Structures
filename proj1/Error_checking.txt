@@ -1,0 +1,1 @@
+Users should input a number for all cin process.

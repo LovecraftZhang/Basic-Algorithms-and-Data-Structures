@@ -1,0 +1,7 @@
+mtf, msy01
+hqp, msy02
+spt, msy03
+bstT, msy04
+sl, msy05
+avl, ms06
+hch, msy07

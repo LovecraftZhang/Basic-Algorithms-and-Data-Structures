@@ -1,0 +1,529 @@
+Enter:
+
+Time for a plane to land (in minutes):
+3
+Time for a plane to takeOff (in minutes):
+2
+Landing rate (planes per hour):
+10
+Takeoff rate (planes per hour):
+12
+How long to run the simulation (in minutes):
+120
+Time = 1
+Time = 2
+Plane1002 wants to takeoff; added to takeoff queue of main_runway. 1 in queue
+
+Plane1003 is taking off. (main_runway) 2 minutes to complete
+
+Time = 3
+Plane1003 wants to land; added to land queue of main_runway. 1 in queue
+
+Plane1003 is landing. (main_runway) 1 minutes to complete
+
+Time = 4
+Plane1003 land complete. (main_runway)
+
+Time = 5
+Plane1005 wants to land; added to land queue of main_runway. 1 in queue
+
+Plane1005 wants to takeoff; added to takeoff queue of temp_runway. 1 in queue
+
+Plane1005 is landing. (main_runway) 3 minutes to complete
+
+Plane1006 is taking off. (Temp_runway) 2 minutes to complete
+
+Time = 6
+Plane1005 is landing. (main_runway) 2 minutes to complete
+
+Plane1006 is taking off. (Temp_runway) 1 minutes to complete
+
+Time = 7
+Plane1005 is landing. (main_runway) 1 minutes to complete
+
+Plane1006 take off complete. (Temp_runway)
+
+Time = 8
+Plane1005 land complete. (main_runway)
+
+Time = 9
+Plane1009 wants to takeoff; added to takeoff queue of temp_runway. 1 in queue
+
+Plane1003 is taking off. (main_runway) 2 minutes to complete
+
+Plane1010 is taking off. (Temp_runway) 2 minutes to complete
+
+Time = 10
+Plane1003 is taking off. (main_runway) 1 minutes to complete
+
+Plane1010 is taking off. (Temp_runway) 1 minutes to complete
+
+Time = 11
+Plane1003 take off complete. (main_runway)
+
+Plane1010 take off complete. (Temp_runway)
+
+Time = 12
+Time = 13
+Time = 14
+Time = 15
+Time = 16
+Plane1016 wants to takeoff; added to takeoff queue of main_runway. 1 in queue
+
+Plane1017 is taking off. (main_runway) 2 minutes to complete
+
+Time = 17
+Plane1017 is taking off. (main_runway) 1 minutes to complete
+
+Time = 18
+Plane1018 wants to takeoff; added to takeoff queue of temp_runway. 1 in queue
+
+Plane1017 take off complete. (main_runway)
+
+Plane1019 is taking off. (Temp_runway) 2 minutes to complete
+
+Time = 19
+Plane1019 is taking off. (Temp_runway) 1 minutes to complete
+
+Time = 20
+Plane1019 take off complete. (Temp_runway)
+
+Time = 21
+Time = 22
+Time = 23
+Time = 24
+Plane1024 wants to land; added to land queue of main_runway. 1 in queue
+
+Plane1024 is landing. (main_runway) 3 minutes to complete
+
+Time = 25
+Plane1025 wants to land; added to land queue of temp_runway. 1 in queue
+
+Plane1024 is landing. (main_runway) 2 minutes to complete
+
+Plane1025 is landing. (Temp_runway) 3 minutes to complete
+
+Time = 26
+Plane1026 wants to takeoff; added to takeoff queue of main_runway. 1 in queue
+
+Plane1024 is landing. (main_runway) 1 minutes to complete
+
+Plane1025 is landing. (Temp_runway) 2 minutes to complete
+
+Time = 27
+Plane1024 land complete. (main_runway)
+
+Plane1025 is landing. (Temp_runway) 1 minutes to complete
+
+Time = 28
+Plane1027 is taking off. (main_runway) 2 minutes to complete
+
+Plane1025 land complete. (Temp_runway)
+
+Time = 29
+Plane1029 wants to land; added to land queue of main_runway. 1 in queue
+
+Plane 1029 has priority to land.
+
+Plane1029 is landing. (main_runway) 1 minutes to complete
+
+Time = 30
+Plane1029 land complete. (main_runway)
+
+Time = 31
+Plane1027 is taking off. (main_runway) 2 minutes to complete
+
+Time = 32
+Plane1032 wants to takeoff; added to takeoff queue of temp_runway. 1 in queue
+
+Plane1027 is taking off. (main_runway) 1 minutes to complete
+
+Plane1033 is taking off. (Temp_runway) 2 minutes to complete
+
+Time = 33
+Plane1033 wants to takeoff; added to takeoff queue of main_runway. 2 in queue
+
+Plane1027 take off complete. (main_runway)
+
+Plane1033 is taking off. (Temp_runway) 1 minutes to complete
+
+Time = 34
+Plane1034 wants to land; added to land queue of main_runway. 1 in queue
+
+Plane1034 is landing. (main_runway) 3 minutes to complete
+
+Plane1033 take off complete. (Temp_runway)
+
+Time = 35
+Plane1034 is landing. (main_runway) 2 minutes to complete
+
+Time = 36
+Plane1034 is landing. (main_runway) 1 minutes to complete
+
+Time = 37
+Plane1034 land complete. (main_runway)
+
+Time = 38
+Plane1034 is taking off. (main_runway) 2 minutes to complete
+
+Time = 39
+Plane1039 wants to land; added to land queue of main_runway. 1 in queue
+
+Plane1039 is landing. (main_runway) 1 minutes to complete
+
+Time = 40
+Plane1039 land complete. (main_runway)
+
+Time = 41
+Plane1034 is taking off. (main_runway) 2 minutes to complete
+
+Time = 42
+Plane1034 is taking off. (main_runway) 1 minutes to complete
+
+Time = 43
+Plane1034 take off complete. (main_runway)
+
+Time = 44
+Time = 45
+Time = 46
+Time = 47
+Time = 48
+Plane1048 wants to takeoff; added to takeoff queue of main_runway. 1 in queue
+
+Plane1049 is taking off. (main_runway) 2 minutes to complete
+
+Time = 49
+Plane1049 wants to takeoff; added to takeoff queue of temp_runway. 1 in queue
+
+Plane1049 is taking off. (main_runway) 1 minutes to complete
+
+Plane1050 is taking off. (Temp_runway) 2 minutes to complete
+
+Time = 50
+Plane1049 take off complete. (main_runway)
+
+Plane1050 is taking off. (Temp_runway) 1 minutes to complete
+
+Time = 51
+Plane1051 wants to land; added to land queue of main_runway. 1 in queue
+
+Plane1051 is landing. (main_runway) 3 minutes to complete
+
+Plane1050 take off complete. (Temp_runway)
+
+Time = 52
+Plane1052 wants to land; added to land queue of temp_runway. 1 in queue
+
+Plane1051 is landing. (main_runway) 2 minutes to complete
+
+Plane1052 is landing. (Temp_runway) 3 minutes to complete
+
+Time = 53
+Plane1053 wants to land; added to land queue of main_runway. 2 in queue
+
+Plane1051 is landing. (main_runway) 1 minutes to complete
+
+Plane1052 is landing. (Temp_runway) 2 minutes to complete
+
+Time = 54
+Plane1054 wants to takeoff; added to takeoff queue of main_runway. 1 in queue
+
+Plane1051 land complete. (main_runway)
+
+Plane1052 is landing. (Temp_runway) 1 minutes to complete
+
+Time = 55
+Plane1053 is landing. (main_runway) 3 minutes to complete
+
+Plane1052 land complete. (Temp_runway)
+
+Time = 56
+Plane1053 is landing. (main_runway) 2 minutes to complete
+
+Time = 57
+Plane1057 wants to land; added to land queue of temp_runway. 1 in queue
+
+Plane 1057 has priority to land.
+
+Plane1053 is landing. (main_runway) 1 minutes to complete
+
+Plane1057 is landing. (Temp_runway) 3 minutes to complete
+
+Time = 58
+Plane1053 land complete. (main_runway)
+
+Plane1057 is landing. (Temp_runway) 2 minutes to complete
+
+Time = 59
+Plane1059 wants to land; added to land queue of main_runway. 1 in queue
+
+Plane1059 is landing. (main_runway) 3 minutes to complete
+
+Plane1057 is landing. (Temp_runway) 1 minutes to complete
+
+Time = 60
+No new takeoffs or landings will be generated on Temp_runway.
+
+Plane1059 is landing. (main_runway) 2 minutes to complete
+
+Plane1057 land complete. (Temp_runway)
+
+Time = 61
+Plane1059 is landing. (main_runway) 1 minutes to complete
+
+Time = 62
+Plane1062 wants to land; added to land queue of main_runway. 2 in queue
+
+Plane1059 land complete. (main_runway)
+
+Time = 63
+Plane1063 wants to takeoff; added to takeoff queue of main_runway. 2 in queue
+
+Plane1062 is landing. (main_runway) 3 minutes to complete
+
+Time = 64
+Plane1064 wants to land; added to land queue of main_runway. 2 in queue
+
+Plane 1064 has priority to land.
+
+Plane1064 is landing. (main_runway) 2 minutes to complete
+
+Time = 65
+Plane1064 is landing. (main_runway) 1 minutes to complete
+
+Time = 66
+Plane1064 land complete. (main_runway)
+
+Time = 67
+Plane1062 is landing. (main_runway) 3 minutes to complete
+
+Time = 68
+Plane1062 is landing. (main_runway) 2 minutes to complete
+
+Time = 69
+Plane1062 is landing. (main_runway) 1 minutes to complete
+
+Time = 70
+Plane1062 land complete. (main_runway)
+
+Time = 71
+Plane1055 is taking off. (main_runway) 2 minutes to complete
+
+Time = 72
+Plane1055 is taking off. (main_runway) 1 minutes to complete
+
+Time = 73
+Plane1073 wants to takeoff; added to takeoff queue of main_runway. 3 in queue
+
+Plane1055 take off complete. (main_runway)
+
+Time = 74
+Plane1064 is taking off. (main_runway) 2 minutes to complete
+
+Time = 75
+Plane1064 is taking off. (main_runway) 1 minutes to complete
+
+Time = 76
+Plane1076 wants to takeoff; added to takeoff queue of main_runway. 3 in queue
+
+Plane1064 take off complete. (main_runway)
+
+Time = 77
+Plane1077 wants to takeoff; added to takeoff queue of main_runway. 3 in queue
+
+Plane1074 is taking off. (main_runway) 2 minutes to complete
+
+Time = 78
+Plane1074 is taking off. (main_runway) 1 minutes to complete
+
+Time = 79
+Plane1074 take off complete. (main_runway)
+
+Time = 80
+Plane1077 is taking off. (main_runway) 2 minutes to complete
+
+Time = 81
+Plane1077 is taking off. (main_runway) 1 minutes to complete
+
+Time = 82
+Plane1077 take off complete. (main_runway)
+
+Time = 83
+Plane1083 wants to land; added to land queue of main_runway. 1 in queue
+
+Plane1083 is landing. (main_runway) 3 minutes to complete
+
+Time = 84
+Plane1083 is landing. (main_runway) 2 minutes to complete
+
+Time = 85
+Plane1083 is landing. (main_runway) 1 minutes to complete
+
+Time = 86
+Plane1086 wants to land; added to land queue of main_runway. 2 in queue
+
+Plane1083 land complete. (main_runway)
+
+Time = 87
+Plane1087 wants to takeoff; added to takeoff queue of main_runway. 2 in queue
+
+Plane1086 is landing. (main_runway) 3 minutes to complete
+
+Time = 88
+Plane1086 is landing. (main_runway) 2 minutes to complete
+
+Time = 89
+Plane1089 wants to land; added to land queue of main_runway. 2 in queue
+
+Plane1089 wants to takeoff; added to takeoff queue of main_runway. 3 in queue
+
+Plane1086 is landing. (main_runway) 1 minutes to complete
+
+Time = 90
+Plane1086 land complete. (main_runway)
+
+Time = 91
+Plane1089 is landing. (main_runway) 3 minutes to complete
+
+Time = 92
+Plane1089 is landing. (main_runway) 2 minutes to complete
+
+Time = 93
+Plane1089 is landing. (main_runway) 1 minutes to complete
+
+Time = 94
+Plane1089 land complete. (main_runway)
+
+Time = 95
+Plane1078 is taking off. (main_runway) 2 minutes to complete
+
+Time = 96
+Plane1096 wants to takeoff; added to takeoff queue of main_runway. 4 in queue
+
+Plane1078 is taking off. (main_runway) 1 minutes to complete
+
+Time = 97
+Plane1078 take off complete. (main_runway)
+
+Time = 98
+Plane1088 is taking off. (main_runway) 2 minutes to complete
+
+Time = 99
+Plane1088 is taking off. (main_runway) 1 minutes to complete
+
+Time = 100
+Plane1100 wants to takeoff; added to takeoff queue of main_runway. 4 in queue
+
+Plane1088 take off complete. (main_runway)
+
+Time = 101
+Plane1090 is taking off. (main_runway) 2 minutes to complete
+
+Time = 102
+Plane1090 is taking off. (main_runway) 1 minutes to complete
+
+Time = 103
+Plane1090 take off complete. (main_runway)
+
+Time = 104
+Plane1104 wants to takeoff; added to takeoff queue of main_runway. 3 in queue
+
+Plane1097 is taking off. (main_runway) 2 minutes to complete
+
+Time = 105
+Plane1105 wants to takeoff; added to takeoff queue of main_runway. 4 in queue
+
+Plane1097 is taking off. (main_runway) 1 minutes to complete
+
+Time = 106
+Plane1097 take off complete. (main_runway)
+
+Time = 107
+Plane1101 is taking off. (main_runway) 2 minutes to complete
+
+Time = 108
+Plane1101 is taking off. (main_runway) 1 minutes to complete
+
+Time = 109
+Plane1109 wants to takeoff; added to takeoff queue of main_runway. 4 in queue
+
+Plane1101 take off complete. (main_runway)
+
+Time = 110
+Plane1105 is taking off. (main_runway) 2 minutes to complete
+
+Time = 111
+Plane1111 wants to takeoff; added to takeoff queue of main_runway. 4 in queue
+
+Plane1105 is taking off. (main_runway) 1 minutes to complete
+
+Time = 112
+Plane1112 wants to land; added to land queue of main_runway. 1 in queue
+
+Plane1112 land complete. (main_runway)
+
+Time = 113
+Plane1105 is taking off. (main_runway) 2 minutes to complete
+
+Time = 114
+Plane1105 is taking off. (main_runway) 1 minutes to complete
+
+Time = 115
+Plane1105 take off complete. (main_runway)
+
+Time = 116
+Plane1116 wants to takeoff; added to takeoff queue of main_runway. 4 in queue
+
+Plane1106 is taking off. (main_runway) 2 minutes to complete
+
+Time = 117
+Plane1106 is taking off. (main_runway) 1 minutes to complete
+
+Time = 118
+Plane1106 take off complete. (main_runway)
+
+Time = 119
+Plane1110 is taking off. (main_runway) 2 minutes to complete
+
+Time = 120
+Plane1120 wants to takeoff; added to takeoff queue of main_runway. 4 in queue
+
+Plane1110 is taking off. (main_runway) 1 minutes to complete
+
+No new takeoffs or landings will be generated.
+
+Time = 121
+Plane1110 take off complete. (main_runway)
+
+Time = 122
+Plane1112 is taking off. (main_runway) 2 minutes to complete
+
+Time = 123
+Plane1112 is taking off. (main_runway) 1 minutes to complete
+
+Time = 124
+Plane1112 take off complete. (main_runway)
+
+Time = 125
+Plane1117 is taking off. (main_runway) 2 minutes to complete
+
+Time = 126
+Plane1117 is taking off. (main_runway) 1 minutes to complete
+
+Time = 127
+Plane1117 take off complete. (main_runway)
+
+Time = 128
+Plane1121 is taking off. (main_runway) 2 minutes to complete
+
+Time = 129
+Plane1121 is taking off. (main_runway) 1 minutes to complete
+
+Time = 130
+Plane1121 take off complete. (main_runway)
+
+STATISTICS:
+Maximum number of planes in landing queue was:2
+Average minutes spent waiting to land:0.222222
+Maximum number of planes in takeoff queue was:4
+Average minutes spent waiting to takeoff:4.28

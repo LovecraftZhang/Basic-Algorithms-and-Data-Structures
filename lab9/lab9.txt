@@ -1,0 +1,70 @@
+SEQUENTIAL	mean:13.3849	var:62633.4	n:42180	0.0300111 secs
+PARALLEL	mean:13.3849	var:62633.4	n:42180	0.0503295 secs
+Cutoff = 3	Number of processors = 8
+y5k0b@lulu:lab9$ ./avl warNpc.txt 4
+SEQUENTIAL	mean:13.3849	var:62633.4	n:42180	0.0292293 secs
+PARALLEL	mean:13.3849	var:62633.4	n:42180	0.0321166 secs
+Cutoff = 4	Number of processors = 8
+y5k0b@lulu:lab9$ ./avl warNpc.txt 5
+SEQUENTIAL	mean:13.3849	var:62633.4	n:42180	0.029178 secs
+PARALLEL	mean:13.3849	var:62633.4	n:42180	0.0155426 secs
+Cutoff = 5	Number of processors = 8
+y5k0b@lulu:lab9$ ./avl warNpc.txt 6
+SEQUENTIAL	mean:13.3849	var:62633.4	n:42180	0.0292146 secs
+PARALLEL	mean:13.3849	var:62633.4	n:42180	0.010397 secs
+Cutoff = 6	Number of processors = 8
+y5k0b@lulu:lab9$ ./avl warNpc.txt 7
+SEQUENTIAL	mean:13.3849	var:62633.4	n:42180	0.0292502 secs
+PARALLEL	mean:13.3849	var:62633.4	n:42180	0.00826987 secs
+Cutoff = 7	Number of processors = 8
+y5k0b@lulu:lab9$ ./avl warNpc.txt 1000
+SEQUENTIAL	mean:13.3849	var:62633.4	n:42180	0.0293521 secs
+PARALLEL	mean:13.3849	var:62633.4	n:42180	0.0349919 secs
+Cutoff = 1000	Number of processors = 8
+y5k0b@lulu:lab9$ ./avl warNpc.txt 8
+SEQUENTIAL	mean:13.3849	var:62633.4	n:42180	0.0293339 secs
+PARALLEL	mean:13.3849	var:62633.4	n:42180	0.00789736 secs
+Cutoff = 8	Number of processors = 8
+y5k0b@lulu:lab9$ ./avl warNpc.txt 9
+SEQUENTIAL	mean:13.3849	var:62633.4	n:42180	0.0293497 secs
+PARALLEL	mean:13.3849	var:62633.4	n:42180	0.00772168 secs
+Cutoff = 9	Number of processors = 8
+y5k0b@lulu:lab9$ ./avl warNpc.txt 10
+SEQUENTIAL	mean:13.3849	var:62633.4	n:42180	0.0317961 secs
+PARALLEL	mean:13.3849	var:62633.4	n:42180	0.0490614 secs
+Cutoff = 10	Number of processors = 8
+y5k0b@lulu:lab9$ ./avl warNpc.txt 7
+SEQUENTIAL	mean:13.3849	var:62633.4 	n:42180	0.0293005 secs
+PARALLEL	mean:13.3849	var:62633.4	n:42180	0.00863044 secs
+Cutoff = 7	Number of processors = 8
+y5k0b@lulu:lab9$ ./avl warNpc.txt 5
+SEQUENTIAL	mean:13.3849	var:62633.4	n:42180	0.0292883 secs
+PARALLEL	mean:13.3849	var:62633.4	n:42180	0.0154353 secs
+Cutoff = 5	Number of processors = 8
+y5k0b@lulu:lab9$ ./avl warNpc.txt 4
+SEQUENTIAL	mean:13.3849	var:62633.4	n:42180	0.0294396 secs
+PARALLEL	mean:13.3849	var:62633.4	n:42180	0.0654496 secs
+Cutoff = 4	Number of processors = 8
+y5k0b@lulu:lab9$ clear
+
+y5k0b@lulu:lab9$ ./avl warNpc.txt 3
+SEQUENTIAL	mean:13.3849	var:62633.4	n:42180	0.0438434 secs
+PARALLEL	mean:13.3849	var:62633.4	n:42180	0.0865802 secs
+Cutoff = 3	Number of processors = 8
+y5k0b@lulu:lab9$ ./avl warNpc.txt 4
+SEQUENTIAL	mean:13.3849	var:62633.4	n:42180	0.045461 secs
+PARALLEL	mean:13.3849	var:62633.4	n:42180	0.0676662 secs
+Cutoff = 4	Number of processors = 8
+y5k0b@lulu:lab9$ ./avl warNpc.txt 8
+SEQUENTIAL	mean:13.3849	var:62633.4	n:42180	0.029182 secs
+PARALLEL	mean:13.3849	var:62633.4	n:42180	0.00776138 secs
+Cutoff = 8	Number of processors = 8
+y5k0b@lulu:lab9$ ./avl warNpc.txt 9
+SEQUENTIAL	mean:13.3849	var:62633.4	n:42180	0.0292124 secs
+PARALLEL	mean:13.3849	var:62633.4	n:42180	0.00786424 secs
+Cutoff = 9	Number of processors = 8
+y5k0b@lulu:lab9$ ./avl warNpc.txt 10
+SEQUENTIAL	mean:13.3849	var:62633.4	n:42180	0.0292484 secs
+PARALLEL	mean:13.3849	var:62633.4	n:42180	0.00741673 secs
+Cutoff = 10	Number of processors = 8
+
